@@ -1,6 +1,6 @@
 # ECG-Features-Extraction
 
-# [DataSet Link](https://physionet.org/content/apnea-ecg/1.0.0/)
+# [Dataset Link](https://physionet.org/content/apnea-ecg/1.0.0/)
 
 <div id='team'>
   
